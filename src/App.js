@@ -20,7 +20,7 @@ const handleSubmit = (value , {resetForm}) =>{
 function App() {
   return (
     <div>
-      <h1>Form is</h1>
+      <h1>Form deployed CI/CD</h1>
       <Formik 
         initialValues={{name:"" , email:""}}
         validationSchema={validation}
