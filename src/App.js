@@ -16,7 +16,7 @@ const handleSubmit = (value , {resetForm}) =>{
   console.log("form submitted" , value);
    resetForm()
 }
-let a = 10;
+// let a = 10;
 function App() {
 
   return (
